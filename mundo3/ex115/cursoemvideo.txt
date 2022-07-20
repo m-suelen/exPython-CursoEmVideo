@@ -1,0 +1,8 @@
+Thaís;23
+Maria;40
+Luís;50
+Gabriel;33
+Lucas;19
+Suelen;26
+Rosa;45
+João;29
