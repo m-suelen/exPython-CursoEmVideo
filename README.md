@@ -1,2 +1,11 @@
-# CursoEmVideo-Python3
-Curso de Python3 do Curso em Vídeo
+# Curso de Python3
+
+Exercícios desenvolvidos durante o curso de Python3 pelo Curso em Vídeo.
+
+O curso abrange os fundamentos da linguagem, estrutura de controle e repetição e estrutura de dados. Dividido em 3 mundos:
+
+Mundo1: Introdução a linguagem, Primeiros passos, Tratando dados e fazendo contas, Usando módulos, Condicionais (if e else) e Adicionando cores.
+
+Mundo2: Condições (if, elif e else), Repetições (for e while).
+
+Mundo3: Tuplas, Listas, Dicionários, Funções, Modularização e Tratamento de Erros.
