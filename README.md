@@ -1,6 +1,6 @@
-# Curso de Python3
+# Curso de Python 3
 
-Exercícios desenvolvidos durante o curso de Python3 pelo Curso em Vídeo.
+Exercícios desenvolvidos durante o curso de Python 3 pelo Curso em Vídeo.
 
 O curso abrange os fundamentos da linguagem, estrutura de controle e repetição e estrutura de dados. 
 Dividido em 3 mundos:
